@@ -1,5 +1,5 @@
 # PowerBi-SQL-assessment
-Here's few related to Power BI and SQL.
+Here's few task related to Power BI and SQL.
 
 I have tried to solve all the problems on both Power BI and SQL.
 
